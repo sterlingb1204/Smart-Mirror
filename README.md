@@ -1,6 +1,6 @@
 # Smart-Mirror
 Raspberry powered mirror which can display the news, weather, and time.
-Created by Abedin Bhollah
+Created by Sterling Bhollah
 
 ## Installation and Updating
 ### Code
